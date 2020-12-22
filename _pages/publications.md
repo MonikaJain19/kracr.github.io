@@ -30,3 +30,4 @@ permalink: /publications/
 {{ publi.authors }} {{ publi.title }} {{ publi.news2 }}  <a href="{{ publi.pdf }}">{{ publi.link.display }} <img src ="{{ publi.image }}"/></a>
 
 {% endfor %}
+<br />
