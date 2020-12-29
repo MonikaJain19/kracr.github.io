@@ -1,0 +1,67 @@
+- title: \"<b>A Benchmark for OWL 2 DL Reasoners</b>\"
+  image: http://localhost:4000/images/pdf/application-pdf.png
+  description: Project description here>>
+  authors: Gunjan Singh, Sumit Bhatia, Raghava Mutharaju
+  pdf: http://sumitbhatia.net/papers/iswc20.pdf
+  link:
+    url:
+    display: "COMAD CODS 2020: 353"
+  highlight: 1
+  news2: in Proceedings of the 7th ACM IKDD CoDS and 25th COMAD (CoDS COMAD 2020) 
+
+
+- title: \"<b>Cardinality Extraction from Text for Ontology Learning</b>\"
+  image: http://localhost:4000/images/pdf/application-pdf.png
+  description: Project description here>>
+  authors: Monika Jain, Paramita Mirza, Raghava Mutharaju
+  pdf: https://dl.acm.org/doi/pdf/10.1145/3371158.3371223?casa_token=QDc4aWfLyP4AAAAA:8t7Ex0d8AQ0KJbuxlYkaBx17nc7QCno_s3ejAB4Z7nY6MOLfVBe3lCWL-Wdvud2AZatCdJLOA_AL0Q
+  link:
+    url: 
+    display: "COMAD CODS 2020: 354"
+  highlight: 1
+  news2: in Proceedings of the 7th ACM IKDD CoDS and 25th COMAD (CoDS COMAD 2020) 
+
+- title: \"<b>ODPReco - A Tool to Recommend Ontology Design Patterns</b>\"
+  image: http://localhost:4000/images/pdf/application-pdf.png
+  description: Project description here>>
+  authors: Maleeha Arif Yasvi, Raghava Mutharaju
+  pdf: http://ceur-ws.org/Vol-2459/short1.pdf
+  link:
+    url:
+    display: "WOP ISWC 2019: 71-75"
+  highlight: 1
+  news2: in Proceedings of the 10th Workshop on Ontology Design and Patterns (WOP 2019)
+
+- title: \"<b>Towards a Concurrent Approximate Description Logic Reasoner</b>\"
+  image: http://localhost:4000/images/pdf/application-pdf.png
+  description: Project description here>>
+  authors: Raj Kamal Yadav, Gunjan Singh, Raghava Mutharaju, Sumit Bhatia
+  pdf: http://ceur-ws.org/Vol-2456/paper38.pdf
+  link:
+    url: 
+    display: "ISWC Satellites 2019: 145-148"
+  highlight: 1
+  news2: in Proceedings of the {ISWC} 2019 Satellite Tracks 
+
+- title: \"<b>Linked Data - Storing, Querying, and Reasoning </b>\"
+  image: http://localhost:4000/images/pdf/application-pdf.png
+  description: Project description here>>
+  authors: Sherif Sakr, Marcin Wylot, Raghava Mutharaju, Danh Le Phuoc, Irini Fundulaki
+  pdf: https://b-ok.cc/book/3494861/fa66a9?dsource=recommend
+  link:
+    url: 
+    display: "Springer International Publishing 2018: 1-223"
+  highlight: 1
+  news2: in Proceedings of Journal of the Association for Information Science and Technology
+
+- title: \"<b> A survey of large-scale reasoning on the Web of data </b>\"
+  image: http://localhost:4000/images/pdf/application-pdf.png
+  description: Project description here>>
+  authors: Grigoris Antoniou, Sotiris Batsakis, Raghava Mutharaju, Jeff Z. Pan, Guilin Qi, Ilias Tachmazidis, Jacopo Urbani, Zhangquan Zhou
+  pdf: https://pure.hud.ac.uk/ws/files/14185682/Survey_Main.pdf
+  link:
+    url: 
+    display: "The Knowledge Engineering Review 2018: e21"
+  highlight: 1
+  news2: in Proceedings of Journal of Knowledge Engineering Review
+
